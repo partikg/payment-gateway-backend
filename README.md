@@ -9,7 +9,7 @@ To get started, follow these steps:
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/partikg/git-3.git
+   git clone gitfilelink
    ```
 
 3. **Navigate into the project directory:**
