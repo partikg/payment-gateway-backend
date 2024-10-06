@@ -22,12 +22,14 @@ To get started, follow these steps:
    npm install
    ```
 
+
 ## Usage
 
-To start the project in development mode, use the following command:
+To start the project, use the following command:
 
 ```bash
-npm run dev
+nodemon server.js
 ```
 
-This command will run the server using `nodemon`, which automatically restarts the server whenever you make changes to the code.
+This command will run your server using `nodemon`, which automatically restarts the server whenever you make changes to the code.
+
