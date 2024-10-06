@@ -14,7 +14,7 @@ To get started, follow these steps:
 
 3. **Navigate into the project directory:**
    ```bash
-   cd git-3
+   cd folder
    ```
 
 4. **Install the necessary dependencies:**
